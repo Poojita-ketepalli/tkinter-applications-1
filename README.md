@@ -8,3 +8,5 @@
 2.On screen keyboard
 
 3.Restaurant billing system
+
+4.Digital clock
