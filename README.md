@@ -10,3 +10,6 @@ Here I have included some important and popular applications using Tkinter._**
 > - QR code generator 
 
 > ### _**If you find this useful, just leave a :star:**_
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=poojitaketepalli.tkinter-applications)
+
