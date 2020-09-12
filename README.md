@@ -8,6 +8,7 @@ Here I have included some important and popular applications using Tkinter._**
 > - Restaurant billing system
 > - Digital clock
 > - QR code generator 
+> - Tic-Tac-Toe game  
 
 > ### _**If you find this useful, just leave a :star:**_
 
