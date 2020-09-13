@@ -11,6 +11,6 @@ Here I have included some important and popular applications using Tkinter._**
 > - Tic-Tac-Toe game  
 > - Language Tanslator
 
-> ### _**If you find this useful, just leave a :star:**_
+### _**If you find this useful, just leave a :star:**_
 
 
