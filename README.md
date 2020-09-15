@@ -9,7 +9,8 @@ Here I have included some important and popular applications using Tkinter._**
 > - Digital clock
 > - QR code generator 
 > - Tic-Tac-Toe game  
-> - Language Tanslator
+> - Language Tanslator  
+> - Notepad
 
 ### _**If you find this useful, just leave a :star:**_
 
