@@ -12,7 +12,8 @@ Here I have included some important and popular applications using Tkinter._**
 > - Language Tanslator  
 > - Notepad
 > - Covid tracker
-> - Age calculator
+> - Age calculator  
+> - BMI calculator
 
 ### _**If you find this useful, just leave a :star:**_
 
