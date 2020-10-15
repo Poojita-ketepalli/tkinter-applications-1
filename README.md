@@ -14,6 +14,8 @@ Here I have included some important and popular applications using Tkinter._**
 > - Covid tracker
 > - Age calculator  
 > - BMI calculator
+> - Youtube Video Downloader
+> - Dictionary Application
 
 ### _**If you find this useful, just leave a :star:**_
 
