@@ -5,7 +5,7 @@ from fractions import Fraction
 
 window=Tk()
 window.title("calculator")
-window.geometry("550x430+400+200")
+window.geometry("620x550+400+200")
 window.configure(bg="gray")
 window.resizable(0,0)
 
