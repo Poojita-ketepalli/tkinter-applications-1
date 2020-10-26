@@ -16,6 +16,7 @@ Here I have included some important and popular applications using Tkinter._**
 > - BMI calculator
 > - Youtube Video Downloader
 > - Dictionary Application
+> - Random Password Generator
 
 ### _**If you find this useful, just leave a :star:**_
 
