@@ -17,6 +17,8 @@ Here I have included some important and popular applications using Tkinter._**
 > - Youtube Video Downloader
 > - Dictionary Application
 > - Random Password Generator
+> - Simple calculator
+> - Scientific calculator
 
 ### _**If you find this useful, just leave a :star:**_
 
