@@ -7,7 +7,7 @@ root.geometry("1500x800+0+0")
 root.title("Movie description generator")
 root.config(bg='black')
 
-img1 = ImageTk.PhotoImage(Image.open('download3.jpg'))
+img1 = ImageTk.PhotoImage(Image.open('background.jpg'))
 lbl_bg = Label(root,image=img1,bg='black')
 lbl_bg.place(x=0,y=0)
 
