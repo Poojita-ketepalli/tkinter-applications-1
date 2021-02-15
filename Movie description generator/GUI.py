@@ -50,7 +50,7 @@ rating = StringVar()
 entry_Rating = Entry(frame1,font=('fixedsys',14),bg = 'white',width=17,textvariable=rating)
 entry_Rating.place(x=170,y=275)
 
-lbl_cast = Label(frame1,text='Rating',font=('fixedsys',16),bg = 'white')
+lbl_cast = Label(frame1,text='Cast',font=('fixedsys',16),bg = 'white')
 lbl_cast.place(x=10,y=323)
 text_cast = Text(frame1,font=('fixedsys',12),bg = 'white',height=10,width=30)
 text_cast.place(x=170,y=325)
